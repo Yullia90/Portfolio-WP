@@ -1,0 +1,12 @@
+body{ 
+    background-color: aqua;
+    color:aliceblue;
+}
+
+.col-3{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
