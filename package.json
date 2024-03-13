@@ -1,15 +1,16 @@
-{
-  "name": "Portfolio-WP",
-  "version": "1.0.0",
-  "description": "My awesome project",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "Yullia90",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1",
-    "gulp": "^4.0.2"
-  }
-}
+// {
+//   "name": "Portfolio-WP",
+//   "version": "1.0.0",
+//   "description": "My awesome project",
+//   "main": "index.js",
+//   "scripts": {
+//     "start": "node index.js",
+//      "build": "gulp"
+//   },
+//   "author": "Yullia90",
+//   "license": "MIT",
+//   "dependencies": {
+//     "express": "^4.17.1",
+//     "gulp": "^4.0.2"
+//   }
+// }
