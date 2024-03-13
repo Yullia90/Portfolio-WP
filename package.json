@@ -9,6 +9,7 @@
   "author": "Yullia90",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gulp": "^4.0.2"
   }
 }
